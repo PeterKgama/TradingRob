@@ -1,0 +1,2 @@
+# TradingRob
+Forex Trading Robot
